@@ -1,0 +1,17 @@
+1000, 1109, Creole langs
+1110, 1245, Indo-European
+1250, 1289, Slavic
+1290, 1564, Indo-Iranian
+1565, 1689, European isolates
+1690, 1730, Mongolic
+1731, 1899, Dravidian
+1900, 1969, Austroasiatic
+1970, 2429, Sino-Tibetan
+2430, 2575, Kra-Dai+As. isolates
+2576, 3600, Austronesian
+4500, 4900, Afro-Asiatic
+5150, 5150, Nilo-Saharan
+5345, 6500, Niger-Congo
+6501, 6795, Other African
+6800, 7124, North American
+7125, 9499, Latin American
