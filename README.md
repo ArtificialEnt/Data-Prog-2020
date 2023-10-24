@@ -7,7 +7,7 @@ and psam_p53.csv, respectively.
 It also uses two notebook files which should have been submitted with the
 project, containing information from the 2018 1-year ACS data dictionary found
 at https://www2.census.gov/programs-surveys/acs/tech_docs/pums/data_dict/PUMS_Data_Dictionary_2018.pdf .
-Because it's a pdf file, I ended up transcribing the data I wanted into csv text
+Because it's a pdf file, I ended up transcribing the small slice of labels I wanted into csv text
 files by hand-- they should be labelled shortened_fam_labels.txt and
 language_recode.txt .
 
